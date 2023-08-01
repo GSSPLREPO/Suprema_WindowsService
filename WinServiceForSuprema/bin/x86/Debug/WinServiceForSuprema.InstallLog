@@ -1,0 +1,48 @@
+﻿Installing assembly 'C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.InstallLog
+   assemblypath = C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.exe
+   logtoconsole = 
+Installing service MyWindowService...
+Service MyWindowService has been successfully installed.
+Creating EventLog source MyWindowService in log Application...
+Committing assembly 'C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.InstallLog
+   assemblypath = C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.InstallLog
+   assemblypath = C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.exe
+Removing EventLog source MyWindowService.
+Service MyWindowService is being removed from the system...
+Service MyWindowService was successfully removed from the system.
+Attempt to stop service MyWindowService.
+Installing assembly 'C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.InstallLog
+   assemblypath = C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.exe
+   logtoconsole = 
+Installing service MyWindowService...
+Service MyWindowService has been successfully installed.
+Creating EventLog source MyWindowService in log Application...
+Committing assembly 'C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.InstallLog
+   assemblypath = C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.InstallLog
+   assemblypath = C:\Users\eroff\source\repos\WinServiceForSuprema\WinServiceForSuprema\bin\x86\Debug\WinServiceForSuprema.exe
+Removing EventLog source MyWindowService.
+Service MyWindowService is being removed from the system...
+Service MyWindowService was successfully removed from the system.
+Attempt to stop service MyWindowService.
